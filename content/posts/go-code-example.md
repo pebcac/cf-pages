@@ -5,9 +5,9 @@ draft: false
 cover:
   image: img/guyfawkes.jpeg
   alt: 'This is a post image'
-  caption: 'This is the caption'
 tags: ["coding", "go"]
 categories: ["tech"]
+author: "Pebcac"
 ---
 
 ## Code Sample
