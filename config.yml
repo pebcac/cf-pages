@@ -1,0 +1,40 @@
+baseURL: http://pebcac.org/
+languageCode: en-us
+title: Pebcac Thoughts
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Tech Journal"
+    Content: "Exploring the wide world of tech"
+  socialIcons:
+    - name: github
+      url: "https://github.com/pebcac"
+    - name: twitter
+      url: "https://twitter.com/"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  #ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
