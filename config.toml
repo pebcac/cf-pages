@@ -1,6 +1,6 @@
 baseURL = "https://pebcac.org"
 title = "HBS (Hugo Theme Bootstrap) v1"
-theme = "hugo-theme-bootstrap" # install via git submodule
+theme = "PaperMod" # install via git submodule
 # theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
 copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
 
@@ -24,6 +24,11 @@ enableRobotsTXT = false
 enableEmoji = true
 
 enableGitInfo = true
+
+# Add Papermod to Hugo and update it by running `hugo mod get -u`
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
 
 # hasCJKLanguage = true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 
