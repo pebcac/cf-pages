@@ -13,6 +13,21 @@ params:
     - name: twitter
       url: "https://twitter.com/"
 
+  languages:
+    en:
+      languageName: English
+      weight: 1
+      disabled: false
+      languageCode: en-US
+    es:
+      languageName: Spanish
+      weight: 2
+    pt-br:
+      languageName: Portugese
+      weight: 3
+      disabled: false
+      languageCode: pt-br
+
   cover:
     linkFullImages: true
 
@@ -20,7 +35,7 @@ params:
 
   ShowReadingTime: true
 
-  #ShowShareButtons: true
+  ShowShareButtons: true
 
   ShowPostNavLinks: true
 
