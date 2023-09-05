@@ -23,7 +23,7 @@ params:
       languageName: Spanish
       weight: 2
     pt-br:
-      languageName: Portugese
+      languageName: Portuguese
       weight: 3
       disabled: false
       languageCode: pt-br
