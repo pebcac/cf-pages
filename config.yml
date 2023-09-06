@@ -26,7 +26,7 @@ params:
       languageName: Portuguese
       weight: 3
       disabled: false
-      languageCode: pt-br
+      languageCode: pt-br 
 
   cover:
     linkFullImages: true
