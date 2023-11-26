@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Pebcac Thoughts</title>
+    <link>http://pebcac.org/categories/</link>
+    <description>Recent content in Categories on Pebcac Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 09:20:46 -0400</lastBuildDate><atom:link href="http://pebcac.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>http://pebcac.org/categories/tech/</link>
+      <pubDate>Fri, 04 Aug 2023 09:20:46 -0400</pubDate>
+      
+      <guid>http://pebcac.org/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

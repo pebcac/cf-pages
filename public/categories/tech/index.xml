@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on Pebcac Thoughts</title>
+    <link>http://pebcac.org/categories/tech/</link>
+    <description>Recent content in tech on Pebcac Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 09:20:46 -0400</lastBuildDate><atom:link href="http://pebcac.org/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Twinkll</title>
+      <link>http://pebcac.org/blog/hello-twinkll/</link>
+      <pubDate>Fri, 04 Aug 2023 09:20:46 -0400</pubDate>
+      
+      <guid>http://pebcac.org/blog/hello-twinkll/</guid>
+      <description>Hello Twinkll! This is a post to demo the hugo server process. From here, you can:
+Jot down your thoughts Make notes Publish your finished material or keep it hidden until you&amp;rsquo;re ready to post for i in `oc get pods -A`; do oc delete pod #i; echo &amp;#34;&amp;#34;; done </description>
+    </item>
+    
+    <item>
+      <title>Exemplo de código Go</title>
+      <link>http://pebcac.org/posts/go-code-example.pt-br/</link>
+      <pubDate>Fri, 19 May 2023 13:05:56 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/go-code-example.pt-br/</guid>
+      <description>Amostra de código package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;hello world&amp;#34;) } </description>
+    </item>
+    
+    <item>
+      <title>Go Code Example</title>
+      <link>http://pebcac.org/posts/go-code-example.es/</link>
+      <pubDate>Fri, 19 May 2023 13:05:56 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/go-code-example.es/</guid>
+      <description>Ejemplo de código paquete principal importar &amp;#34;fmt&amp;#34; función principal() { fmt.Println(&amp;#34;hola mundo&amp;#34;) } </description>
+    </item>
+    
+    <item>
+      <title>Go Code Example</title>
+      <link>http://pebcac.org/posts/go-code-example/</link>
+      <pubDate>Fri, 19 May 2023 13:05:56 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/go-code-example/</guid>
+      <description>Code Sample package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;hello world&amp;#34;) } </description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://pebcac.org/posts/second/</link>
+      <pubDate>Fri, 19 May 2023 09:51:05 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/second/</guid>
+      <description>There is nothing here This is a another demonstration post about Hugo. It is about nothing interesting. It is about something interesting.
+What a contradiction!</description>
+    </item>
+    
+    <item>
+      <title>Segundo</title>
+      <link>http://pebcac.org/posts/second.pt-br/</link>
+      <pubDate>Fri, 19 May 2023 09:51:05 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/second.pt-br/</guid>
+      <description>Não há nada aqui Este é mais um post demonstrativo sobre o Hugo. Não se trata de nada interessante. É sobre algo interessante.
+Que contradição!</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://pebcac.org/posts/first.es/</link>
+      <pubDate>Fri, 19 May 2023 09:43:46 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/first.es/</guid>
+      <description>Este es un encabezado Este es el encabezado dos Este es el título tres Este es un párrafo.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://pebcac.org/posts/first/</link>
+      <pubDate>Fri, 19 May 2023 09:43:46 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/first/</guid>
+      <description>This is a heading one This is a heading two This is a heading three This is a paragraph.</description>
+    </item>
+    
+    <item>
+      <title>Primeiro</title>
+      <link>http://pebcac.org/posts/first.pt-br/</link>
+      <pubDate>Fri, 19 May 2023 09:43:46 -0400</pubDate>
+      
+      <guid>http://pebcac.org/posts/first.pt-br/</guid>
+      <description>Este é um título Este é o título dois Este é um título três Este é um parágrafo.</description>
+    </item>
+    
+  </channel>
+</rss>
